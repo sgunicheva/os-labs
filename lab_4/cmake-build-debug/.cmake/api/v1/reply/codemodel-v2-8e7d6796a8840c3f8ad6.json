@@ -58,8 +58,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/user/Desktop/untitled/cmake-build-debug",
-		"source" : "C:/Users/user/Desktop/untitled"
+		"build" : "C:/Users/user/Documents/\u044e\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0438/\u043e\u0441/os-labs/lab_4/cmake-build-debug",
+		"source" : "C:/Users/user/Documents/\u044e\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0438/\u043e\u0441/os-labs/lab_4"
 	},
 	"version" : 
 	{

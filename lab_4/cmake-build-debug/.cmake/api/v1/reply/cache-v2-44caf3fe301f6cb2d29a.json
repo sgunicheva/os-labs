@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/user/Desktop/untitled/cmake-build-debug"
+			"value" : "c:/Users/user/Documents/\u044e\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0438/\u043e\u0441/os-labs/lab_4/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/Desktop/untitled/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/user/Documents/\u044e\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0438/\u043e\u0441/os-labs/lab_4/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/user/Desktop/untitled"
+			"value" : "C:/Users/user/Documents/\u044e\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0438/\u043e\u0441/os-labs/lab_4"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/untitled"
+			"value" : "C:/Program Files (x86)/lab4"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/Desktop/untitled/cmake-build-debug"
+			"value" : "C:/Users/user/Documents/\u044e\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0438/\u043e\u0441/os-labs/lab_4/cmake-build-debug"
 		},
 		{
 			"name" : "lab4_IS_TOP_LEVEL",
@@ -1315,79 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/Desktop/untitled"
-		},
-		{
-			"name" : "lab5_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/user/Desktop/untitled/cmake-build-debug"
-		},
-		{
-			"name" : "lab5_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "lab5_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/user/Desktop/untitled"
-		},
-		{
-			"name" : "untitled_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/user/Desktop/untitled/cmake-build-debug"
-		},
-		{
-			"name" : "untitled_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "untitled_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/user/Desktop/untitled"
+			"value" : "C:/Users/user/Documents/\u044e\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0438/\u043e\u0441/os-labs/lab_4"
 		}
 	],
 	"kind" : "cache",

@@ -1,4 +1,4 @@
-C:/Users/user/Desktop/untitled/cmake-build-debug/CMakeFiles/server.dir
-C:/Users/user/Desktop/untitled/cmake-build-debug/CMakeFiles/client.dir
-C:/Users/user/Desktop/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/Desktop/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/юниверсити/ос/os-labs/lab_4/cmake-build-debug/CMakeFiles/server.dir
+C:/Users/user/Documents/юниверсити/ос/os-labs/lab_4/cmake-build-debug/CMakeFiles/client.dir
+C:/Users/user/Documents/юниверсити/ос/os-labs/lab_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/юниверсити/ос/os-labs/lab_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
